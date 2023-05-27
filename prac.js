@@ -7,3 +7,4 @@ const myDecimal = 5.7;
 var myStr = "FirstLine\n\t\\SecondLine\nThirdLine";
 const myStr = ""; // Change this line
 const ourStr = "I come first. " + "I come second.";
+const str = "I came first." + "I came second" 
